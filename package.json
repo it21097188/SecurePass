@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://it21097188.github.io/SecurePass",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
