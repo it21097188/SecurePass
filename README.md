@@ -1,6 +1,5 @@
 # **SecurePass: A Secure Web-Based Password Manager (Work in progress)**
 A web-based password manager that does not depend on an external server
-<img width="960" alt="SecurePass" src="https://user-images.githubusercontent.com/102342274/219704812-3bd042ce-b242-435c-8010-b292acb47fd3.png">
 
 ## File structure
 
